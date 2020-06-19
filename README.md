@@ -1,4 +1,4 @@
-# RealvsFakeNewsAnalysis
+# FakeNewsAnalysis
 * I analysis the news data collected and develop a Machine Learning Algorithm to distinguish between real and fake news.
 * This is a Kaggle dataset from https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset/data .
 * Dataset contains news article titles, news article content and the date of publish.
